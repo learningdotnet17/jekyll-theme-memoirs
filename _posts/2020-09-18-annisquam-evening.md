@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Annisquam Sunset"
+title:  "Cloud Reflections"
 categories: [ Lighthouses ]
-tags: [ Sunsets, Long-Exposures ]
 image: assets/images/20200918-DSC07485-evening.jpg
 ---
 
